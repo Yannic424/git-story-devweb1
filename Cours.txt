@@ -1,0 +1,16 @@
+clic droit -> git bash here
+
+Initialiser la branche principale :
+git init 
+-> branche (master)
+
+Glisser dossier dans VSCode
+-> Les fichiers sont Untracked (Non suivi)
+
+
+git status
+->git add . ('.' = all)
+
+
+git commit -a -m "Début de mon histoire"
+-m -> ajouter un "message" 
